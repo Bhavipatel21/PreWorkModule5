@@ -1,0 +1,18 @@
+body {
+    background-color: white
+}
+
+
+.classcenter  {text-align: center;}
+.classred {color: red;}
+.classblue { color: blue;}
+.classgreen {color: green;}
+.classbold {font-weight: bold;}
+.styledFont {font-size: 20px; font-style: normal; color: green;}
+.classbig{font-size: 40px;}
+
+#smalltext {font-size: 10px;}
+#newstyle {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+#styledcolor {color: orange;}
+#styledImage {border: solid; border-width: 10px; border-color: orange;}
+
